@@ -1,6 +1,3 @@
-Get PRO here:
-https://templatesjungle.gumroad.com/l/lifestyle-magazine-html-template
-
 It is a free HTML CSS template by https://templatesjungle.com/
 
 You can use this template as a starter template and start building as you require.
@@ -8,11 +5,7 @@ You can use this template as a starter template and start building as you requir
 The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
 
 Preview URL:
-https://demo.templatesjungle.com/lifestyle/
-
-Get the Full Version here: 
-https://templatesjungle.gumroad.com/l/lifestyle-magazine-html-template
-
+https://themewagon.github.io/LifeStyleMag/
 
 FREE FOR BOTH PERSONAL AND COMMERCIAL USE
 
